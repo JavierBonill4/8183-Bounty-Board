@@ -1,0 +1,2 @@
+# Job Descriptio
+Test capabilities of bounty board by creating a job and funding it. The created job should have the task of: "This job is completed once someone can formally prove if P =? NP where P refers to the set of problems that are sovable in polynomial time and NP is the set of problems verifiable in polynomial times"

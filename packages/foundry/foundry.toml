@@ -6,6 +6,7 @@ fs_permissions = [{ access = "read-write", path = "./"}]
 extra_output = ["evm.bytecode.opcodes"]
 optimizer = true
 optimizer_runs = 200
+remappings = ["@openzeppelin/=lib/openzeppelin-contracts/"]
 
 
 [rpc_endpoints]
